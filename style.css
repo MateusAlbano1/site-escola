@@ -9,3 +9,12 @@
     display: flex;
     justify-content: space-around;
 }
+
+.estudante-imagem{
+    width: 100px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
