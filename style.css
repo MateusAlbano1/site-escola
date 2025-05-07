@@ -8,8 +8,14 @@
     color: white;
     display: flex;
     justify-content: space-around;
+    aling-itens: center;
+    padding: 0px;
 }
 
+.cabecalho-lista-item{
+    display: inither block;
+    margin: 0 10px;
+}
 .estudante-imagem{
     width: 100px;
 }
